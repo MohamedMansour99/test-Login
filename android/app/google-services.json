@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417558565096",
+    "project_id": "mentor-academy-login",
+    "storage_bucket": "mentor-academy-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417558565096:android:c4733793ba247ceda6795d",
+        "android_client_info": {
+          "package_name": "com.example.test_login_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUAVhadl5dEoQdzGT31K_uPr4HjvGUEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
